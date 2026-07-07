@@ -10,7 +10,7 @@ export default function CTA() {
         <a href="https://www.fiverr.com/s/99Kk9md" target="_blank" rel="noreferrer" className="btn-primary">
           Hire Me on Fiverr →
         </a>
-        <a href="mailto:sumandevi@gmail.com" className="btn-secondary">
+        <a href="mailto:purwar.mohak@gmail.com" className="btn-secondary">
           Send a Direct Email
         </a>
       </div>

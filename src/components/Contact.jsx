@@ -80,8 +80,8 @@ export default function Contact() {
             color: '#FCA5A5', fontSize: 14,
           }}>
             ⚠️ Something went wrong. Please email directly at{' '}
-            <a href="mailto:sumandevi@gmail.com" style={{ color: 'var(--violet2)' }}>
-              sumandevi@gmail.com
+            <a href="mailto:purwar.mohak@gmail.com" style={{ color: 'var(--violet2)' }}>
+              purwar.mohak@gmail.com
             </a>
           </div>
         )}

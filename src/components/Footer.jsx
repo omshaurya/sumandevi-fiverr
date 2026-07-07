@@ -7,7 +7,7 @@ export default function Footer() {
         <a href="#" title="Instagram">📸</a>
         <a href="#" title="LinkedIn">💼</a>
         <a href="#" title="Fiverr">🟢</a>
-        <a href="mailto:sumandevi@gmail.com" title="Email">✉️</a>
+        <a href="mailto:purwar.mohak@gmail.com" title="Email">✉️</a>
       </div>
     </footer>
   )
